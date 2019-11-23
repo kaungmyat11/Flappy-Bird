@@ -1,2 +1,2 @@
-# Flappy-Bird
-Flappy Bird Made with Unity
+# Flappy Bird Game
+Flappy Bird Game Made with Unity
